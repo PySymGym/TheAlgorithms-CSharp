@@ -1,11 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <CodeAnalysisRuleSet>..\stylecop.ruleset</CodeAnalysisRuleSet>
-    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
-    <Nullable>enable</Nullable>
-    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+   <TargetFramework>net8.0</TargetFramework>
+   <CodeAnalysisRuleSet>..\stylecop.ruleset</CodeAnalysisRuleSet>
+   <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+   <Nullable>enable</Nullable>
+   <GenerateDocumentationFile>true</GenerateDocumentationFile>
+   <AssemblyName>TheAlgorithms.DataStructures</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
